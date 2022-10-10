@@ -1,14 +1,19 @@
-<h1 align="center">Hi 👋, I'm Miguel Ángel</h1>
-<h3 align="center">I am a student of web application development (DAW)</h3>
+<h1 align="center">Hi 👋, Soy Miguel Ángel</h1>
+<h3 align="center">Soy estudiante del grado superior de desarrollo de aplicaciones web (DAW) en el instituto Jacarandá (Brenes)</h3>
 
-- 🌱 I’m currently learning **python programming language**
+- 🌱 Actualmente estoy aprendiendo el lenguaje de programacion Python.
 
-- 📫 How to reach me **miguelanreyesm@gmail.com**
+- 📫  **miguelanreyesm@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Encuéntrame en:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/miguel-angel-reyes-mendez-984120170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/miguel-angel-reyes-mendez-984120170/" height="30" width="40" /></a>
-</p>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<h3 align="left">Languajes y tecnologia:</h3>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<h3 align="left">Estadistica GitHub:</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=migreymen"/>
