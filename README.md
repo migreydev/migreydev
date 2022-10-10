@@ -17,3 +17,6 @@
 
 <h3 align="left">Estadistica GitHub:</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=migreymen"/>
+
+<h3 align="left">Estadísticas de trofeos GitHub:</h3>
+<img src="https://github-profile-trophy.vercel.app/?username=migreymen"/>
