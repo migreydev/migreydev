@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, Soy Miguel Ángel</h1>
-<h3 align="center">Soy estudiante del grado superior de desarrollo de aplicaciones web (DAW) en el instituto Jacarandá (Brenes)</h3>
+<h1 align="center">Hi everyone 👋, Soy Miguel Ángel Reyes</h1>
+<img align="center" width="200" src="" />
+<h3 align="center">Soy geografo y actualmente estoy estudiando un grado superior de desarrollo de aplicaciones web (DAW).</h3>
 
-- 🌱 Actualmente estoy aprendiendo el lenguaje de programacion Python.
+🌱 Actualmente estoy aprendiendo el lenguaje de programacion Python. Me entusiasma todo lo relacionado con la tecnologia y espero poder aportar pronto 
+mis conocimientos en este mundo. 
 
-- 📫  **miguelanreyesm@gmail.com**
+📫  **miguelanreyesm@gmail.com**
 
 <h3 align="left">Encuéntrame en:</h3>
 <p align="left">
@@ -16,7 +18,8 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 <h3 align="left">Estadistica GitHub:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=migreymen"/>
+<img src="https://github-readme-stats.vercel.app/api?username=migreymen&theme=blue-green"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migreymen&theme=blue-green"/>
 
 <h3 align="left">Estadísticas de trofeos GitHub:</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=migreymen"/>
