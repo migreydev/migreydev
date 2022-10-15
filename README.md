@@ -26,3 +26,4 @@ mis conocimientos en este mundo.
 
 <h3 align="left">Estadísticas de trofeos GitHub:</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=migreymen"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=migreymen&label=Profile%20views&color=0e75b6&style=flat" alt="migreymen" /> </p>
