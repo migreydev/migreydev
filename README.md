@@ -21,9 +21,9 @@ mis conocimientos en este mundo.
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 <h3 align="left">Estadistica GitHub:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=migreymen&theme=blue-green"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migreymen&theme=blue-green"/>
+<img src="https://github-readme-stats.vercel.app/api?username=migreydev&theme=blue-green"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migreydev&theme=blue-green"/>
 
 <h3 align="left">Estadísticas de trofeos GitHub:</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=migreymen"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=migreymen&label=Profile%20views&color=0e75b6&style=flat" alt="migreymen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=migreymen&label=Profile%20views&color=0e75b6&style=flat" alt="migreydev" /> </p>
