@@ -29,7 +29,6 @@ mis conocimientos en este mundo.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=migreymen&label=Profile%20views&color=0e75b6&style=flat" alt="migreydev" /> </p>
 
 <a href=#><img src="contributions.svg"></a>
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/migreydev/count.svg" />
