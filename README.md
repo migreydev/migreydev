@@ -4,7 +4,7 @@
   <h3 align="center">Soy geografo :earth_americas: actualmente estoy estudiando un grado superior de desarrollo de aplicaciones web (DAW):computer:</h3>
 </p>
 
-🌱 Actualmente estoy aprendiendo el lenguaje de programacion Python :snake:. Me entusiasma todo lo relacionado con la tecnologia y espero poder aportar pronto 
+🌱 Actualmente estoy aprendiendo el lenguaje de programacion Python :snake: y Java. Me entusiasma todo lo relacionado con la tecnologia y espero poder aportar pronto 
 mis conocimientos en este mundo. 
 
 📫  **miguelanreyesm@gmail.com**
