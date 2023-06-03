@@ -1,7 +1,7 @@
 <p align="center" width="300">
    <img align="center" width="200" src="https://user-images.githubusercontent.com/49988347/195359834-28e045a4-2bd8-4e4c-a609-e468fe07ddf4.png" />
   <h2 align="center">Hi everyone 👋, Soy Miguel Ángel Reyes</h2>
-  <h3 align="center">Soy geografo :earth_americas: actualmente estoy estudiando un grado superior de desarrollo de aplicaciones web (DAW):computer:</h3>
+  <h3 align="center">Geografo :earth_americas: actualmente estoy estudiando un grado superior de desarrollo de aplicaciones web (DAW):computer:</h3>
 </p>
 
 🌱 Actualmente estoy aprendiendo el lenguaje de programacion Python :snake: y Java. Me entusiasma todo lo relacionado con la tecnologia y espero poder aportar pronto 
