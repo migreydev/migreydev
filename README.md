@@ -1,8 +1,7 @@
 <p align="center" width="300">
    <img align="center" width="200" src="https://user-images.githubusercontent.com/49988347/195359834-28e045a4-2bd8-4e4c-a609-e468fe07ddf4.png" />
   <h2 align="center">Hi everyone 👋, Soy Miguel Ángel Reyes</h2>
-  ![GitHub Followers](https://img.shields.io/github/followers/migreydev?style=social)
-   ![GitHub Followers](https://img.shields.io/github/stars/migreydev?style=social)
+
   <h3 align="center">Geografo :earth_americas: actualmente estoy estudiando un grado superior de desarrollo de aplicaciones web (DAW):computer:</h3>
 </p>
 
