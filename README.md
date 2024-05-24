@@ -1,5 +1,7 @@
+
 <p align="center" width="300">
-   <img align="center" width="200" src="https://user-images.githubusercontent.com/49988347/195359834-28e045a4-2bd8-4e4c-a609-e468fe07ddf4.png" />
+    <img align="center" width="1000" src="https://cdn.discordapp.com/attachments/1069287956986216530/1243710910284038164/github-header-image_2.png?ex=6652778c&is=6651260c&hm=aab373c2e1f04c88a25aaa9404215e3fbe5e0bafec8fc35f6e842521b080b539&" />
+  
   <h2 align="center">Hi everyone  <img height="30" width="30" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">, Soy Miguel Ángel Reyes</h2>
 
   <h3 align="center">Geografo :earth_americas: actualmente estoy estudiando un grado superior de desarrollo de aplicaciones web (DAW):computer: y me estoy preparando para ser un futuro web developer. 🚀</h3>
