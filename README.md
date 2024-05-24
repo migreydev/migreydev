@@ -11,12 +11,12 @@
 
 📫  **miguelanreyesm@gmail.com**
 
-<h3 align="left">Encuéntrame en:</h3>
+<h3 align="left">🔍 Encuéntrame en:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/miguel-angel-reyes-mendez-984120170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel-angel-reyes-mendez" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Lenguajes y tecnología:</h3>
+<h3 align="left">💻 Lenguajes y tecnología:</h3>
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
@@ -42,7 +42,7 @@
    <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" />
 </div>
 
-<h3 align="left">Repositorios destacados:</h3>
+<h3 align="left">📌 Repositorios destacados:</h3>
 <a href="https://github.com/migreydev/angularInterModule">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=migreydev&repo=angularInterModule&theme=vision-friendly-dark&show_icons=true"/>
 </a>
@@ -50,11 +50,11 @@
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=migreydev&repo=apiReact&theme=vision-friendly-dark&show_icons=true"/>
 </a>
 
-<h3 align="left">Estadistica GitHub:</h3>
+<h3 align="left">📊 Estadísticas GitHub:</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=migreydev&theme=vision-friendly-dark&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migreydev&layout=compact&theme=vision-friendly-dark&show_icons=true"/>
 
-<h3 align="left">Estadísticas de trofeos GitHub:</h3>
+<h3 align="left">🏆 Estadísticas de trofeos GitHub:</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=migreydev"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=migreydev&label=Profile%20views&color=0e75b6&style=flat" alt="migreydev" /> </p>
 
