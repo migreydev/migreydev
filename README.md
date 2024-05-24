@@ -5,8 +5,9 @@
   <h3 align="center">Geografo :earth_americas: actualmente estoy estudiando un grado superior de desarrollo de aplicaciones web (DAW):computer:</h3>
 </p>
 
-🌱Estoy aprendiendo diversos lenguajes de programacion  como Python :snake:, Java, JavaScript entre muchos otros. Me entusiasma todo lo relacionado con la tecnologia y espero poder aportar pronto 
-mis conocimientos en este mundo. 
+🌱 En mi formación, he tenido la oportunidad de aprender y trabajar con diversos lenguajes de programación como Python 🐍, Java, y JavaScript, entre otros. Además, he explorado tecnologías como Angular, React, y SpringBoot, destacando mi enfoque en el desarrollo web tanto del lado del cliente como del servidor.
+
+💻 La tecnología y el desarrollo de software me entusiasman, y estoy ansioso por aplicar mis conocimientos y contribuir al mundo del desarrollo web. 🚀 Mi objetivo es seguir aprendiendo y creciendo profesionalmente, y espero poder colaborar en proyectos futuros.
 
 📫  **miguelanreyesm@gmail.com**
 
