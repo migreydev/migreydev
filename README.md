@@ -21,6 +21,10 @@
 </p>
 
 <h3 align="left"> <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="30px" /> 💻 Lenguajes y tecnología:</h3>
+
+---
+
+
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
