@@ -9,9 +9,10 @@
 
 🌱 En mi formación, he tenido la oportunidad de aprender y trabajar con diversos lenguajes de programación como Python 🐍, Java, y JavaScript, entre otros. Además, he explorado tecnologías como Angular, React, y Spring, destacando mi enfoque en el desarrollo web tanto del lado del cliente como del servidor.
 
-💻 La tecnología y el desarrollo de software me entusiasman, y estoy ansioso por aplicar mis conocimientos y contribuir al mundo del desarrollo web. 🚀 Mi objetivo es seguir aprendiendo y creciendo profesionalmente, y espero poder colaborar en proyectos futuros.
+💻 La tecnología y el desarrollo de software me entusiasman profundamente, y estoy ansioso por aplicar mis conocimientos y contribuir al mundo del desarrollo web. 🚀 Mi objetivo es seguir aprendiendo y creciendo profesionalmente, adquiriendo nuevas habilidades y conocimientos que me permitan enfrentar nuevos desafíos. Espero poder colaborar en proyectos futuros que no solo me permitan aplicar lo que ya sé, sino también aprender y adaptarme a las nuevas tendencias y tecnologías
 
-📫  **miguelanreyesm@gmail.com**
+📫 **miguelanreyesm@gmail.com**
+
 
 <h3 align="left">🔍 Encuéntrame en:</h3>
 
