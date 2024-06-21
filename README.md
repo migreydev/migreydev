@@ -1,6 +1,6 @@
 
 <p align="center" width="300">
-    <img align="center" width="1000" src="https://cdn.discordapp.com/attachments/1069287956986216530/1243710910284038164/github-header-image_2.png?ex=6652778c&is=6651260c&hm=aab373c2e1f04c88a25aaa9404215e3fbe5e0bafec8fc35f6e842521b080b539&" />
+    <img align="center" width="1000" src="https://cdn.discordapp.com/attachments/1069287956986216530/1243710910284038164/github-header-image_2.png?ex=6676b8cc&is=6675674c&hm=7d7059016b48ae546cb7444c0ce3a58cb39bf383d00daa8252b1c5d9550f77c1&" />
   
   <h2 align="center">Hi everyone  <img height="30" width="30" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">, Soy Miguel Ángel Reyes</h2>
 
