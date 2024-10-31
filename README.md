@@ -17,7 +17,7 @@
 ---
 
 <p align="left">
-<a href="https://www.linkedin.com/in/miguel-angel-reyes-mendez-984120170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel-angel-reyes-mendez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-reyes-m%C3%A9ndez-984120170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel-angel-reyes-mendez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"> <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="30px" /> 💻 Lenguajes y tecnología:</h3>
