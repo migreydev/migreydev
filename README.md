@@ -1,6 +1,5 @@
-
 <p align="center" width="300">
-    <img align="center" width="1000" src="https://cdn.discordapp.com/attachments/1069287956986216530/1243710910284038164/github-header-image_2.png?ex=66fb378c&is=66f9e60c&hm=2e3fb78e66ed314d5d26edce7358975131d8dbfb7bff95f4358784a1ad663f8c&" />
+    <img align="center" width="1000" src="./github-header-image (2).png" />
   
   <h2 align="center">Hi everyone  <img height="30" width="30" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">, Soy Miguel Ángel Reyes</h2>
 
@@ -13,11 +12,9 @@
 
 📫 **miguelanreyesm@gmail.com**
 
-
 <h3 align="left">🔍 Encuéntrame en:</h3>
 
 ---
-
 
 <p align="left">
 <a href="https://www.linkedin.com/in/miguel-angel-reyes-mendez-984120170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel-angel-reyes-mendez" height="30" width="40" /></a>
@@ -26,7 +23,6 @@
 <h3 align="left"> <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="30px" /> 💻 Lenguajes y tecnología:</h3>
 
 ---
-
 
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
@@ -57,7 +53,6 @@
 
 ---
 
-
 <a href="https://github.com/migreydev/angularInterModule">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=migreydev&repo=angularInterModule&theme=vision-friendly-dark&show_icons=true"/>
 </a>
@@ -68,7 +63,6 @@
 <h3 align="left">📊 Estadísticas GitHub:</h3>
 
 ---
-
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=migreydev&theme=vision-friendly-dark&show_icons=true"/>
@@ -82,6 +76,7 @@
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=migreydev&theme=juicyfresh" />
 
 <a href=#><img src="contributions.svg"></a>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/migreydev/count.svg" />
