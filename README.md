@@ -1,7 +1,7 @@
 <p align="center" width="300">
     <img align="center" width="1000" src="./github-header-image (2).png" />
   
-  <h2 align="center">Hi everyone  <img height="30" width="30" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">, Soy Miguel Ángel Reyes</h2>
+  <h2 align="center">Hi everyone  <img height="30" width="30" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">, I am Miguel Ángel Reyes</h2>
 
   <h3 align="center">Geographer 🌎 currently studying Web Application Development (DAW) 💻 and preparing to become a future web developer. 🚀 </h3>
 </p>
