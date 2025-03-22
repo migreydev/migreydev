@@ -3,7 +3,7 @@
   
   <h2 align="center">Hi everyone  <img height="30" width="30" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">, I am Miguel Ángel Reyes</h2>
 
-  <h3 align="center">Geographer 🌎 currently studying Web Application Development (DAW) 💻 and preparing to become a future web developer. 🚀 </h3>
+  <h3 align="center">Geographer 🌎 currently studying Web Application Development (DAW) 💻 and preparing to become a future software developer. 🚀 </h3>
 </p>
 
 🌱 Throughout my education, I have had the opportunity to learn and work with various programming languages such as Python 🐍, Java, and JavaScript, among others. Additionally, I have explored technologies like Angular, React, and Spring, focusing on both client-side and server-side web development.
