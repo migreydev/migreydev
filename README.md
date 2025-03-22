@@ -3,16 +3,16 @@
   
   <h2 align="center">Hi everyone  <img height="30" width="30" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">, Soy Miguel Ángel Reyes</h2>
 
-  <h3 align="center">Geografo :earth_americas: actualmente estoy estudiando un grado superior de Desarrollo de Aplicaciones Web (DAW):computer: y me estoy preparando para ser un futuro web developer. 🚀</h3>
+  <h3 align="center">Geographer 🌎 currently studying Web Application Development (DAW) 💻 and preparing to become a future web developer. 🚀 </h3>
 </p>
 
-🌱 En mi formación, he tenido la oportunidad de aprender y trabajar con diversos lenguajes de programación como Python 🐍, Java, y JavaScript, entre otros. Además, he explorado tecnologías como Angular, React, y Spring, destacando mi enfoque en el desarrollo web tanto del lado del cliente como del servidor.
+🌱 Throughout my education, I have had the opportunity to learn and work with various programming languages such as Python 🐍, Java, and JavaScript, among others. Additionally, I have explored technologies like Angular, React, and Spring, focusing on both client-side and server-side web development.
 
-💻 La tecnología y el desarrollo de software me entusiasman profundamente, y estoy ansioso por aplicar mis conocimientos y contribuir al mundo del desarrollo web. 🚀 Mi objetivo es seguir aprendiendo y creciendo profesionalmente, adquiriendo nuevas habilidades y conocimientos que me permitan enfrentar nuevos desafíos. Espero poder colaborar en proyectos futuros que no solo me permitan aplicar lo que ya sé, sino también aprender y adaptarme a las nuevas tendencias y tecnologías
+💻 Technology and software development deeply excite me, and I am eager to apply my knowledge and contribute to the web development world. 🚀 My objetive is to keep learning and growing professionally, acquiring new skills and knowledge to face new challenges. I look forward to collaborating on future projects that not only allow me to apply what I have learned but also help me adapt to new trends and technologies.
 
 📫 **miguelanreyesm@gmail.com**
 
-<h3 align="left">🔍 Encuéntrame en:</h3>
+<h3 align="left">🔍 Find me at:</h3>
 
 ---
 
@@ -49,7 +49,7 @@
    <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" />
 </div>
 
-<h3 align="left">📌 Repositorios destacados:</h3>
+<h3 align="left">📌 Featured repositories:</h3>
 
 ---
 
@@ -60,7 +60,7 @@
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=migreydev&repo=apiReact&theme=vision-friendly-dark&show_icons=true"/>
 </a>
 
-<h3 align="left">📊 Estadísticas GitHub:</h3>
+<h3 align="left">📊 GitHub statistics:</h3>
 
 ---
 
@@ -69,7 +69,7 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migreydev&layout=compact&theme=vision-friendly-dark&show_icons=true"/>
 </p>
 
-<h3 align="left">🏆 Estadísticas de trofeos GitHub:</h3>
+<h3 align="left">🏆 GitHub trophy statistics:</h3>
 
 ---
 
